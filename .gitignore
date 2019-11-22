@@ -4,8 +4,14 @@
 /storage/*.key
 /vendor
 .env
-.phpunit.result.cache
-Homestead.json
-Homestead.yaml
+
+vendor/
+node_modules/
 npm-debug.log
-yarn-error.log
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
