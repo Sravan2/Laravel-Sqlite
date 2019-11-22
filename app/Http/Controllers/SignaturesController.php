@@ -16,4 +16,6 @@ class SignaturesController extends Controller
 	{
 	    return view('signatures.sign');
 	}
+
+	//Test feature Code implemented
 }
