@@ -16,4 +16,6 @@ class SignaturesController extends Controller
 	{
 	    return view('signatures.sign');
 	}
+
+	//Feature 2 code implemented
 }
