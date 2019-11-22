@@ -18,4 +18,8 @@ class SignaturesController extends Controller
 	}
 
 	//Test feature 1 Code implemented
+
+
+
+	///Hotfix 1 issue fixed
 }
