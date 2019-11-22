@@ -17,9 +17,12 @@ class SignaturesController extends Controller
 	    return view('signatures.sign');
 	}
 
+
 	//Test feature 1 Code implemented
 
 
 
 	///Hotfix 1 issue fixed
+
+	//Feature 2 code implemented
 }
